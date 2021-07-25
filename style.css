@@ -1,0 +1,25 @@
+.slider-banner {
+    background-color: #FCECEA;
+    border-radius: 5px;
+}
+
+.catagories {
+    color: #FFFF;
+}
+
+.catagories img {
+    width: 100px;
+}
+
+.button-all {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: #FFFF;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+}
+
+.subscribe {
+    background-color: #FCEAE8;
+}
